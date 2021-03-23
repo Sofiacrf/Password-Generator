@@ -22,5 +22,6 @@ This project will be updated with some improvement regarding the password genera
 ![Password GeneratorScreenshots.](./Password-generator-SS2.PNG)
 
 ## Link to the website
+https://sofiacrf.github.io/Password-Generator/
 
 
