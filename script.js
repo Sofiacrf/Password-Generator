@@ -1,7 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
-// Variables with the characters the password might have
+// Global variables with the characters the password might have
 var lowercase = [
   "a",
   "b",
@@ -130,10 +130,12 @@ function createPassword() {
     containsNumbers === false &&
     containsSpecialCharacters === false
   ) {
+    // alert to select characters
     alert("Select at least one character");
     createPassword();
   }
 
+  // Choices variables
   var userChoices = {
     passwordLength: passwordLength,
     containsLowercase: containsLowercase,
@@ -145,7 +147,6 @@ function createPassword() {
 }
 
 // Random function for each character the password might have
-
 function randomLowercase() {
   var lowerletter = [
     "a",
