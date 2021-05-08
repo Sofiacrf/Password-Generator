@@ -257,6 +257,7 @@ function writePassword() {
   passwordText.value = password;
 }
 
+// Function generate password
 function generatePassword() {
   var passwordCharacters = createPassword();
   var password = "";
@@ -271,6 +272,7 @@ function generatePassword() {
   console.log(containsNumbers);
   var containsSpecialCharacters = passwordCharacters.containsSpecialCharacters;
 
+// for loop
   for (var i = 0; i < passwordLength; i++) {
     if (containsLowercase) {
       password += randomLowercase();
