@@ -22,10 +22,9 @@ This project will be updated with some improvement regarding the password genera
  * Publish the website on Github pages
 
  ## Contact information
- * email: sofiacarf@gmail.com
+ email: sofiacarf@gmail.com
 
 ## Finished Project
-
 ![Password GeneratorScreenshots.](./Password-generator-SS1.PNG)
 ![Password GeneratorScreenshots.](./Password-generator-SS2.PNG)
 
