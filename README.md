@@ -9,7 +9,7 @@ The project was made in order to build a password generator, one that allows the
  * CSS
 
 ## Project status
-This project will be updated with some improvement regarding the password generation. 
+This project will change style. 
 
 ## Installation
  * Create a repo on GitHub
