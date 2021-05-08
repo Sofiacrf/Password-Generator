@@ -111,6 +111,7 @@ function createPassword() {
     );
   }
 
+  // confirm section
   var containsLowercase = confirm(
     "Do you want your password to contain lowercase?"
   );
