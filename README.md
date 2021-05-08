@@ -32,4 +32,3 @@ This project will be updated with some improvement regarding the password genera
 ## Link to the website
 https://sofiacrf.github.io/Password-Generator/
 
-
