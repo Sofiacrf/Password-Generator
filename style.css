@@ -23,6 +23,7 @@ body {
   padding-right: 20px;
 }
 
+/* Header section */
 header {
   text-align: center;
   padding: 20px;
@@ -42,6 +43,7 @@ header {
   padding: 30px 40px;
 }
 
+/* Card section */
 .card-header::after {
   content: " ";
   display: block;
@@ -98,6 +100,7 @@ button[disabled] {
   float: right;
 }
 
+/* Password section */
 #password {
   -webkit-appearance: none;
   -moz-appearance: none;
