@@ -3,6 +3,11 @@
 ## Description
 The project was made in order to build a password generator, one that allows the user to choose the characters and lenght of the password. By using this password generator the user prevent a security risk by getting a strong password. 
 
+## Techonologies
+ * Javascript
+ * HTML
+ * CSS
+
 ## Project status
 This project will be updated with some improvement regarding the password generation. 
 
